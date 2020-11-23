@@ -1,0 +1,17 @@
+
+#header-nav{
+ background-color:#f6b319;
+ border-radius:0;
+ border:0;
+}
+.navbar-brand{
+   font-family: 'Mina', sans-serif;
+   font-size: 28pt;
+
+}
+
+
+.text-justify.bg-dark.p-2{
+    opacity: 0.6;
+}
+
